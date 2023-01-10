@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Quicksand:300,regular,500,600,700);
 @import url(https://fonts.googleapis.com/css?family=Kosugi:regular);
 @import url(https://fonts.googleapis.com/css?family=Kaushan+Script:regular);
+@import url(https://fonts.googleapis.com/css?family=Kosugi:regular);
 *{
     margin: 0;
     padding: 0;
@@ -212,14 +213,12 @@ body{
     color: #FF8C42;
 }
 
-.past{
-   
-}
+
 
 .h22{
     width: 454px;
     height: 92px;
-    font-family: 'Kosugi';
+    font-family: 'kosugi';
     font-style: normal;
     font-weight: 400;
     font-size: 48px;
